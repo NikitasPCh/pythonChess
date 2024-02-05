@@ -9,5 +9,5 @@ A. It does not handle victory condition the real way a chess game does. That mea
 For the future:
 
 1. Change how a check is handled.
-2. Add special moves (En passant, castling and pawn promotion)
-3. Add a timer
+2. Add special moves (En passant, castling and pawn promotion).
+3. Add a timer.
